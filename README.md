@@ -1,2 +1,2 @@
 # why-is-the-importing-of-RNA
-RNA is the made from the DNA  and can make pertain. 
+RNA is the made from the DNA and protein.  
